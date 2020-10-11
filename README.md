@@ -1,5 +1,6 @@
 # CancerClassification
 
+
 Accurately identifying and categorizing breast cancer subtypes is an important clinical task, and automated methods can be used to save time and reduce error. This is what i attempt to do in CancerDetection.ipynb. Invasive Ductal Carcinoma (IDC), is the most common of all breast cancer. The dataset was originally curated by Janowczyk and Madabhushi and Roa et al. but is available in public domain linked below on Kaggle’s website.
 
 ![Class 1](https://github.com/Carl-E-B/CancerClassification/blob/master/8863_idx5_x1051_y1051_class1.png)
